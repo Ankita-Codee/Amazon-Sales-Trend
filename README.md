@@ -38,3 +38,6 @@ The dashboard provides answers to key business questions, including:
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/cd92c450-fd26-443f-b716-d55ac433a700)
+
+
